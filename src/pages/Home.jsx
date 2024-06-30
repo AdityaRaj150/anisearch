@@ -95,8 +95,3 @@ export default function Home(){
     </>
 }
 
-export async function action(req){
-    const data = await req.data
-    redi
-    return data
-}
